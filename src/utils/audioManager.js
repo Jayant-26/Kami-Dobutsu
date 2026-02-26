@@ -11,7 +11,7 @@ class AudioManager {
   init() {
     if (this.initialized) return;
     this.backgroundMusic = new Howl({
-      src: [new URL('../audios/lalaland.mp3', import.meta.url).href],
+      src: [new URL('../audios/spirit.mp3', import.meta.url).href],
       html5: false,
       loop: true,
       volume: 0.8,
