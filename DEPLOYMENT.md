@@ -23,7 +23,7 @@
 4. **Add Environment Variables** in Render:
    - `PORT` = `3001`
    - `NODE_ENV` = `production`
-   - `GEMINI_API_KEY` = `AIzaSyAMA1veIBUaO3GOEZ-NBOZlmypRaqd2xno`
+   - `GEMINI_API_KEY` = `PRIVATE'
    - `BYTEZ_API_KEY` = `edc1012a276c956de200d0f78e610bba`
    - `FRONTEND_URL` = `*` (will update after Vercel deployment)
 
